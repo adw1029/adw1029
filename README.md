@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ziyu Cui
+- 👋 Hi, I’m Ziyu (Andrew) Cui
 - 👀 I’m interested in anything fun and challenging!
 - 🌱 I’m currently studying Computer Science at Santa Clara University
 - 💞️ I’m looking to collaborate on any projects
