@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ziyu (Andrew) Cui
 - 👀 I’m interested in anything fun and challenging!
-- 🌱 I’m currently studying Computer Science at Santa Clara University
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: andrewcui1029@gmail.com 
 
